@@ -1,0 +1,9 @@
+# https://github.com/crate-ci/typos/tree/master#getting-started
+
+[files]
+extend-exclude = ["*.form", "*.svg", "JetBrainsRootCerts.java"]
+
+[default.extend-words]
+caf = "caf"
+Darcula = "Darcula"
+LAF = "LAF"
