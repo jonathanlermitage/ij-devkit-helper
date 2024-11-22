@@ -26,4 +26,16 @@
     enhance the support of the IntelliJ Platform Gradle Plugin v2 by providing a new inspection <code>Usage of IntelliJ API not available in older IDEs (gradle.properties)</code>.
 </p>
 
+## Commands
+
+### Build plugin
+
+`make build` or `./gradlew buildPlugin`
+
+### Run a sandboxed IDE
+
+`make run` or `./gradlew runIde2`
+
+---
+
 Check also my other <a href="https://plugins.jetbrains.com/author/ed9cc7eb-74f5-46c1-b0df-67162fe1a1c5">plugins</a>.
